@@ -41,3 +41,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [JensterleI](https://github.com/JensterleI/ROM)
 - [magicdadi](https://github.com/magicdadi/ROM)
 - [Monikaaaaaaaaaa](https://github.com/Monikaaaaaaaaaa/ROM.git)
+- [nastjabesednjak](https://github.com/nastjabesednjak/ROM)
